@@ -1,0 +1,12 @@
+APIs:
+An API (Application Programming Interface) is a software
+intermediary that allows two applications to talk to each other. They are written to make requests to get or send some information from the server.
+
+
+
+Types of Request:
+The most common types of request methods are GET and
+POST. In GET, the client (browser) sends a request to get
+some data from the server. Whereas, in POST, the client
+sends the data to the server.
+

@@ -1,0 +1,53 @@
+Create virtual envt
+
+python -m venv flask_env
+
+Activate envt
+flask_env\Scripts\activate
+
+pip install tensorflow
+
+pip install flask
+pip install pandas
+===================
+
+index.html
+jquery  lib embeded in script tag in index.html
+
+index.js in static folder - for AJAX
+jquery file with ajax calls
+
+===
+s. There will be two Python
+files.
+1. app.py for the API.
+2. text_sentiment_prediction.py for the sentiment
+analysis.
+
+====
+
+write functions in text_sentiment_prediction.py
+
+==============
+
+To get the request from the user (index.html), we have to send it to the flask through AJAX
+===============
+
+assign date 
+============
+explain clicking button
+ajax call
+success
+error
+====
+Let’s write the code for Flask to receive the request and
+process it. 
+
+from text_sentiment_prediction import *
+
+then the function()
+
+============
+This function will receive the data in JASON format
+from the ‘text’ object created in AJAX.
+

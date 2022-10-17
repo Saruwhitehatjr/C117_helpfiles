@@ -1,0 +1,34 @@
+Flask is a Python web framework, it’s a Python module
+that lets you develop web applications easily.
+A framework, or software framework, is a platform for
+developing software applications. It provides a
+foundation on which one can build programs for a specific platform.
+
+A framework may include predefined classes and functions
+that can be used to process input, manage hardware
+devices, and interact with the system.
+For example, a factory builds phones. The machines and
+workers are included within the factory to build a phone.
+
+A framework is like a factory and machines and workers
+are the predefined functions that serve a specific task.
+These are used to build phones in our case we are building
+an API.
+
+Thus, different frameworks are used for different
+development purposes. In Python, Django and Flask are
+the two types of frameworks available for web
+development using Python.
+Flask was originally developed by Armin Ronacher. He
+led a group of international Python practitioners called
+Poocco. It was founded in 2004.
+
+
+FLASK DOCUMENTATION ->https://flask.palletsprojects.com/en/2.0.x/
+
+
+You see here we have created an API that is used for
+communicating between Python and HTML files using Flask . 
+Let’s say I want to redirect the page when I am clicking a button on
+the webpage. Thus, we have to create another API to
+redirect it.

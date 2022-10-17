@@ -1,0 +1,25 @@
+AJAX stands for Asynchronous JavaScript And XML.
+AJAX is not a programming language but it uses JavaScript.
+AJAX is used to send and receive data from HTML to Python files. We’ll be using jQuery to create the AJAX call.
+
+
+
+
+JQuery is a JavaScript Library. It uses CSS style
+selectors to select elements of an HTML page such as
+buttons, text inputs, etc, and uses AJAX to change the
+state of these elements
+
+How is jQuery used?
+jQuery is a JavaScript library. The purpose of jQuery is to make it much easier to use JavaScript on websites.
+jQuery is used to shorten the JavaScript code to
+accomplish and wrap them into methods that you can call
+with a single line of code.
+
+Syntax :$(selector).action(function())
+
+Selectors are used to select one or more HTML elements
+using jQuery. Once an element is selected then we can
+perform various operations on that selected element using
+AJAX.
+
